@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+button {
+  background-color: #4CAF50;
+  border: white;
+  color: black;
+  padding: 16px 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+  align: center;
+  text-size:2;
+}
+button:active{
+  background:red;
+  text-align: center;
+  }
+
+
